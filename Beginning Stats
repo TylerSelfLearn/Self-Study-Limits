@@ -1,7 +1,36 @@
-I’m a 24‑year‑old self‑learner beginning a two‑year journey to master PhD‑level Materials Science & Engineering. My formal academic record is modest—I completed high‑school coursework with ease but struggled in college, earning C’s in Calculus I and not passing Calculus II. I have foundational exposure to algebra, chemistry, and introductory calculus, and a recent IQ assessment placed me around 115 (solidly average).
+ Project Introduction
 
-Why materials science? I’m fascinated by how atomic‑scale structures translate into real‑world performance—everything from aerospace alloys to flexible electronics. This project is my personal proof‑of‑concept: with disciplined study, open‑source tools, and AI assistance, I can close the gap between curiosity and expertise, regardless of where I started.
+**Goal**  
+Achieve PhD‑level expertise in **Materials Science & Engineering** within **24 months** using open‑source tools, disciplined self‑study, and AI copilots.
 
+---
 
+## Snapshot of My Starting Point
 
+| Area | Current Level |
+|------|---------------|
+| **Age** | 24 |
+| **Formal Degree** | None (some college) |
+| **Math Background** | Algebra ✅, Calculus I (C grade), Calculus II (incomplete) |
+| **Science Background** | High‑school chemistry & intro chemistry |
+| **IQ** | ~115 (average) |
 
+---
+
+## Why Materials Science :atom_symbol:
+
+I’m fascinated by how **atomic structure → macroscopic performance**. From spacecraft alloys that shrug off re‑entry heat to flexible electrodes that read brain signals, materials power the future. This project is my proof that curiosity, grit, and modern AI tools can bridge the gap between “interested” and “expert.”
+
+---
+
+## Guiding Principles
+
+1. **Consistency over intensity** – 22 h every week, no zero‑weeks.  
+2. **Project‑first learning** – every concept ends in code, simulation, or a mini‑paper.  
+3. **Open science** – all notes, data, and code live publicly in this repo.  
+4. **AI as co‑researcher** – ChatGPT for debugging, literature TL;DR, and idea generation.
+
+---
+
+> “The best way to predict the future of materials is to build it.”  
+> <cite>— Me, starting July 2025</cite>
